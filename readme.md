@@ -4,7 +4,7 @@
 Include Files in XLSX Format:-
 1. [Country-Code.xlsx](https://github.com/MeSumitK/Zomato-Report/blob/main/DataSet/Country-Code.xlsx)
 2. [zomato.xlsx](https://github.com/MeSumitK/Zomato-Report/blob/main/DataSet/zomato.xlsx)
-### 2. Wrote SQL Queries to Import CSV Data in SQL Database...
+### 2. Wrote SQL Queries to Import XLSX Data in SQL Database...
 Used MySQL Workbech to Create Database and Tables.
 1. Created Database "zomato" in MySQL Workbench
 2. Created Tables "country_code" & "zomato" in "zomato" Database
